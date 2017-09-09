@@ -4,3 +4,4 @@ Tech used so far is:
 macports
 git
 atom
+ssh keys
